@@ -1,4 +1,4 @@
-package com.oyameen;
+package com.oyameen.directorytextfilessmallcharoccurrencecount;
 
 public class DirectoryTextFilesSmallCharOccurrenceCount {
     public static void main(String[] args) throws Exception {

@@ -1,4 +1,4 @@
-package com.oyameen;
+package com.oyameen.directorytextfilessmallcharoccurrencecount;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

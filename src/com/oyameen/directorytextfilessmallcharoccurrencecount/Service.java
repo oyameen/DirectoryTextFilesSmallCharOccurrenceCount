@@ -1,4 +1,4 @@
-package com.oyameen;
+package com.oyameen.directorytextfilessmallcharoccurrencecount;
 
 import java.util.concurrent.TimeUnit;
 

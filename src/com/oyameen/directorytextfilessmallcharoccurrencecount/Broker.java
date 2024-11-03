@@ -1,4 +1,4 @@
-package com.oyameen;
+package com.oyameen.directorytextfilessmallcharoccurrencecount;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ExecutorService;
