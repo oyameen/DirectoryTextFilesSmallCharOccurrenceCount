@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 DirectoryTextFilesSmallCharOccurrenceCount.iml
+.idea/*
 *.xml
 ### Eclipse ###
 .apt_generated
